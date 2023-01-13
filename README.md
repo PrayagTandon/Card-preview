@@ -38,7 +38,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Github solution](https://github.com/PrayagTandon/Card-preview)
 - Live Site URL: [card-preview-prayag.netlify.app](https://card-preview-prayag.netlify.app/)
 
 ## My process
