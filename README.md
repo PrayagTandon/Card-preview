@@ -52,20 +52,24 @@ Users should be able to:
 - Mobile-first workflow
 
 ### What I learned
+1. Learned how to use CSS Flexbox to layout a style
+
+2. Learnt the difference between using max-width and width property.
+
+3. This project helped me to develop skills to learn about media queries and when to apply them.
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+1. To develop more fluency in laying the components using CSS Flexbox and CSS Grid.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+2. TO develop skills to make any page responsive.
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This helped me to get a good understanding of CSS Flexbox.
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- [A Complete Guide to CSS Media Queries](https://css-tricks.com/a-complete-guide-to-css-media-queries/) - This is an amazing article which helped me finally understand Media queries. I'd recommend it to anyone still learning this concept.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@PrayagTandon](https://www.frontendmentor.io/profile/PrayagTandon)
