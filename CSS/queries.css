@@ -5,7 +5,7 @@
 }
 
 @media (min-width: 31em) and (max-width: 40em) {
-  .section-card {
+  .main-card {
     /* margin: 3.2rem 2.4rem; */
     width: 68%;
     margin: 3.2rem auto;
@@ -13,7 +13,7 @@
 }
 
 @media (min-width: 40em) {
-  .section-card {
+  .main-card {
     flex-direction: row;
     margin-block: 8rem;
     max-height: 55rem;
@@ -34,20 +34,25 @@
 }
 
 @media (min-width: 48em) {
-  .section-card {
+  .main-card {
     width: 65%;
     margin: 8rem auto;
   }
 }
 
 @media (min-width: 74em) {
-  .section-card {
+  .main-card {
     width: 55%;
+  }
+
+  .img-box,
+  .text-box {
+    width: 50%;
   }
 }
 
 @media (min-width: 85em) {
-  .section-card {
+  .main-card {
     width: 50%;
   }
 }
